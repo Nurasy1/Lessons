@@ -22,5 +22,5 @@ function Decode(text, key) {
     return code
 }
 
-console.log("encoded word: ", Encode("COMPUTER", "CAT"))
-console.log("decoded word: ", Decode("EOFRUMGR", "CAT"))
+console.log("encoded word: ", Encode("IAMHANDSOME", "CAT"))
+console.log("decoded word: ", Decode("KAFJAGFSHOE", "CAT"))
