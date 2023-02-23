@@ -1,5 +1,5 @@
 class Progression {
-    constructor(a1, n, q, an) {
+    constructor(a1, n, q ) {
         this.a1 = a1;
         this.n = n;
         this.q = q;
