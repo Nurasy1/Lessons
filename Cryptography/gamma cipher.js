@@ -32,5 +32,5 @@ function Decode(text, key) {
     }
     return code
 }
-console.log("encoded word: ", Encode("ТЕКСТ", "КЛЮЧ"))
-console.log("decoded word: ", Decode("ЭР88Э", "КЛЮЧ"))
+console.log("encoded word: ", Encode("ТЕКСТБЫЛ", "КЛЮЧ"))
+console.log("decoded word: ", Decode("ЭР88ЭМО2", "КЛЮЧ"))
