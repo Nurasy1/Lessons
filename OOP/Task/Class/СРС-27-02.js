@@ -33,9 +33,11 @@ class Worker {
 const workers = [
     new Worker("Bakir Nurassyl", "123456789", "Frontend dev", "1973-01-01", "87771750663", 50000),
     new Worker("Abdymazhyt Islam", "987654321", "Backend Dev", "1973-01-05", "87764562254", 70000),
-    new Worker("Marat Bostan", "456789123", "Manager", "1973-01-10", "87074568892", 40000),
+    new Worker("Marat Bostan", "456789123", "Manager", "1973-01-10", "87074568892", 80000),
     new Worker("User Erbolat", "321654987", "Game dev", "1973-01-15", "87071114524", 60000),
     new Worker("Smatov Nurzhigit", "789456123", "Java Dev", "1973-01-25", "87001233211", 45000),
+    new Worker("Esenova Nuriya", "040728600778", "Director", "1977-05-26", "87554566555", 60000),
+    new Worker("Zhakyp Aida", "041108600076", "Artist", "1973-01-25", "87001233211", 45000),
 ];
 
 const averageAge = Worker.getAverageAge(workers);
