@@ -38,6 +38,9 @@ const workers = [
     new Worker("Smatov Nurzhigit", "789456123", "Java Dev", "1973-01-25", "87001233211", 45000),
     new Worker("Esenova Nuriya", "040728600778", "Director", "1977-05-26", "87554566555", 60000),
     new Worker("Zhakyp Aida", "041108600076", "Artist", "1973-01-25", "87001233211", 45000),
+    new Worker("Orysbay Uliqpan", "040625551111", "Mobileographer", "1973-01-01", "87476523747", 50000),
+    new Worker("Zhumadil Aididar", "987623421", "SMM", "1973-01-05", "87764534566", 70000),
+    new Worker("Hidarov Rahat", "456088123", "Worker", "1973-01-10", "87074568232", 80000),
 ];
 
 const averageAge = Worker.getAverageAge(workers);
