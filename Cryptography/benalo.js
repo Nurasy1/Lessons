@@ -31,6 +31,6 @@ function benalohDecrypt1(message) {
    });
     console.log(Tm);
 }
-benalohDecrypt1('My surname is Bakir');
+benalohDecrypt1('Rasul');
 console.log('---------------------')
 
