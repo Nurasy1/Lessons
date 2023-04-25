@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Моя записная книжка</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Моя записная книжка</h1>
+</header>
+<main>
+    <form id="add-contact-form">
+        <h2>Добавить контакт</h2>
+        <div>
+            <label for="first-name">Имя</label>
+            <input type="text" id="first-name" required>
+        </div>
+        <div>
+            <label for="last-name">Фамилия</label>
+            <input type="text" id="last-name" required>
+        </div>
+        <div>
+            <label for="birth-date">Дата рождения</label>
+            <input type="date" id="birth-date" required>
+        </div>
+        <div>
+            <label for="phone-number">Номер телефона</label>
+            <input type="tel" id="phone-number" required>
+        </div>
+        <button type="submit">Добавить</button>
+    </form>
+    <div>
+        <h2>Список контактов</h2>
+        <div class="search-container">
+            <label for="search">Поиск по имени, фамилии, дате рождения или номеру телефона:</label>
+            <input type="text" id="search">
+        </div>
+        <table id="contact-table">
+            <thead>
+            <tr>
+                <th>Имя</th>
+                <th>Фамилия</th>
+                <th>Дата рождения</th>
+                <th>Телефон</th>
+            </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+
+    </div>
+</main>
+<script src="СРС-24-04.js"></script>
+</body>
+</html>
