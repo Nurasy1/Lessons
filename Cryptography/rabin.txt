@@ -1,0 +1,74 @@
+import math
+
+p = int(input("p="))
+q = int(input("q="))
+n = p*q
+print("n=", n)
+
+# chifr
+M = int(input("M="))
+w = pow(M, 2)
+w %= n
+c = w
+print("C=", c, "\n")
+
+# keri shifr
+e = (p+1)//4
+r = pow(c, e, p)
+m1 = r
+print("m1=", m1)
+
+t = pow(c, e, p)
+y = p-t
+m2 = y
+print("m2=", m2)
+
+u = (q+1)//4
+i = pow(c, u, q)
+m3 = i
+print("m3=", m3)
+
+o = pow(c, u, q)
+s = q-o
+m4 = s
+print("m4=", m4, "\n")
+
+# a jane b-ni tabamiz
+d = pow(q, -1, p)
+a = q*d
+print("a=", a)
+
+f = pow(p, -1, q)
+b = f*p
+print("b=", b, "\n")
+
+# barlik jagdaydagi M-di karastiramiz
+g = a*m1 + b*m3
+g %= n
+M1 = g
+print("M1=", M1)
+
+h = a*m1 + b*m4
+h %= n
+M2 = h
+print("M2=", M2)
+
+j = a*m2 + b*m3
+j %= n
+M3 = j
+print("M3=", M3)
+
+k = a*m2 + b*m4
+k %= n
+M4 = k
+print("M4=", M4, "\n")
+
+# tenestiru orindaymiz
+if M1 == c:
+    print("M1=C")
+elif  M2 == c:
+    print("M2=C")
+elif  M3 == c:
+    print("M3=C")
+elif  M4 == c:
+    print("M4=C")

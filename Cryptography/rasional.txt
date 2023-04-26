@@ -1,0 +1,84 @@
+2.3. Схема 1
+Генерация ключей. Пусть x0 — закрытый ключ данного шифра, x0  , т.е. x0 = p/q,
+Где p Е Z, q Е N- произвольные числа.
+Алгоритм 2.3 (шифрования). Алгоритм шифрования Enc : Z ->Z[x]  выглядит
+следующим образом:
+1) Пусть z E Z - число, которое требуется зашифровать.
+2) Построим полином f(x)=a0+a1*x+…+an*x^n такой, что n>0  и коэффициенты
+a0, a1, a2, a3, …. an E Z выбираются случайным образом.
+3) Вычислим f(x0)=f(p/q)=a0+a1*(p/q)+…+an*(p/q)^n. Откуда получаем
+(q^n)*f(p/q)=(q^n)*a0+(q^(n-1))*p*a1+…+(p^n)*an, где (q^n)*f(p/q) E Z.
+4) Тогда шифрующий полином для z будет выглядеть следующим образом:
+gz(x)=(q^n)*f(x)-(q^n)*f(p/q)+z E Z[x].
+
+
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <random>
+
+using namespace std;
+
+// Function to generate a random integer between min and max (inclusive)
+int random_int(int min, int max) {
+    random_device rd;
+    mt19937 gen(rd());
+    uniform_int_distribution<> dis(min, max);
+    return dis(gen);
+}
+
+// Function to calculate the value of a polynomial with coefficients coeffs at x
+int evaluate_polynomial(vector<int>& coeffs, int x) {
+    int result = 0;
+    int n = coeffs.size();
+    for (int i = n - 1; i >= 0; i--) {
+        result = result * x + coeffs[i];
+    }
+    return result;
+}
+
+// Encryption function
+vector<int> encrypt(int z, int p, int q, int n) {
+    // Generate random coefficients for the polynomial
+    vector<int> coeffs(n + 1);
+    for (int i = 0; i <= n; i++) {
+        coeffs[i] = random_int(-100, 100); // Choose coefficients from -100 to 100
+    }
+
+    // Calculate the value of the polynomial at x0 = p/q
+    double x0 = (double) p / q;
+    int f_pq = evaluate_polynomial(coeffs, x0);
+
+    // Calculate (q^n)*f(p/q)
+    int qn_f_pq = f_pq;
+    for (int i = 1; i <= n; i++) {
+        qn_f_pq *= q;
+    }
+
+    // Calculate the encryption polynomial
+    vector<int> gz(n + 1);
+    for (int i = 0; i <= n; i++) {
+        gz[i] = qn_f_pq * coeffs[i];
+    }
+    gz[0] += z;
+    return gz;
+}
+
+int main() {
+    int z = 123; // The number to be encrypted
+    int p = 17;
+    int q = 5;
+    int n = 2; // Degree of the polynomial
+
+    // Encrypt the number
+    vector<int> encrypted = encrypt(z, p, q, n);
+
+    // Print the encrypted polynomial
+    cout << "Encrypted polynomial: ";
+    for (int i = 0; i <= n; i++) {
+        cout << encrypted[i] << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
