@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "labka4": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Nurassyl Bakir\\Front\\react\\projects\\04-lessons\\Notes\\ИСРП"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

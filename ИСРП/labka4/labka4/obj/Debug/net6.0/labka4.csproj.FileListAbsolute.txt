@@ -1,0 +1,14 @@
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.AssemblyInfoInputs.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.AssemblyInfo.cs
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.csproj.CoreCompileInputs.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\bin\Debug\net6.0\labka4.exe
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\bin\Debug\net6.0\labka4.deps.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\bin\Debug\net6.0\labka4.runtimeconfig.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\bin\Debug\net6.0\labka4.dll
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\bin\Debug\net6.0\labka4.pdb
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.dll
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\refint\labka4.dll
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.pdb
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\labka4.genruntimeconfig.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka4\labka4\obj\Debug\net6.0\ref\labka4.dll
