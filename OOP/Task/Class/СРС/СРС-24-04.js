@@ -1,5 +1,4 @@
-
- const tableBody = document.querySelector('#contact-table tbody');
+/* const tableBody = document.querySelector('#contact-table tbody');*/
 
  //Функция, которая заполняет тело таблицы данными
 function renderTableBody(tableBody, contacts) {
@@ -74,7 +73,8 @@ const book = new AddressBook();
 book.addContact(new Contact('Ислам', 'Мажит', '01.01.2004', '87777777771'));
 book.addContact(new Contact('Бостан', 'Марат', '06.01.2004', '87777777772'));
 book.addContact(new Contact('Ерболат', 'Усер', '05.01.2004', '87777777773'));
-
+ book.addContact(new Contact('Nurzhigit', 'Seidaliev', '07.01.2004', '87777777774'));
+/* book.deleteContact('0');*/
 console.log('Исходный список контактов:');
 console.log(book.contacts);
 
@@ -97,6 +97,7 @@ console.log(book.contacts);
 console.log('Список контактов, отсортированный по имени:');
 book.sortContacts('firstName');
 console.log(book.contacts);
+
 
 // Отображаем список контактов в таблице
 renderTableBody(tableBody, book.contacts);

@@ -1,0 +1,14 @@
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\bin\Debug\net6.0\Labka3.exe
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\bin\Debug\net6.0\Labka3.deps.json
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\bin\Debug\net6.0\Labka3.runtimeconfig.json
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\bin\Debug\net6.0\Labka3.dll
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\bin\Debug\net6.0\Labka3.pdb
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.AssemblyInfoInputs.cache
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.AssemblyInfo.cs
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.csproj.CoreCompileInputs.cache
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.dll
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\refint\Labka3.dll
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.pdb
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\Labka3.genruntimeconfig.cache
+C:\Users\Nurassyl Bakir\source\repos\Labka3\Labka3\obj\Debug\net6.0\ref\Labka3.dll
