@@ -1,0 +1,30 @@
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\appsettings.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\labka 5.staticwebassets.runtime.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\labka 5.exe
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\labka 5.deps.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\labka 5.runtimeconfig.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\labka 5.dll
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\bin\Debug\net6.0\labka 5.pdb
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.AssemblyInfoInputs.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.AssemblyInfo.cs
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.csproj.CoreCompileInputs.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.RazorAssemblyInfo.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.RazorAssemblyInfo.cs
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets\msbuild.labka 5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets\msbuild.build.labka 5.props
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.labka 5.props
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.labka 5.props
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\scopedcss\bundle\labka 5.styles.css
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\scopedcss\projectbundle\labka 5.bundle.scp.css
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.dll
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\refint\labka 5.dll
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.pdb
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\labka 5.genruntimeconfig.cache
+C:\Users\Nurassyl Bakir\Front\react\projects\04-lessons\Notes\ИСРП\labka 5\labka 5\obj\Debug\net6.0\ref\labka 5.dll
